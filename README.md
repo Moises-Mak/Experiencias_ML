@@ -16,12 +16,18 @@ O objetivo deste repositório é documentar e compartilhar experiências prátic
 Estrutura do Repositório
 A estrutura do repositório é organizada da seguinte maneira:
 Experiencias_ML/
-├── datasets/                # Conjuntos de dados utilizados nos experimentos
-├── notebooks/               # Notebooks Jupyter com os experimentos
-├── scripts/                 # Scripts Python para processamento e modelagem
-├── models/                  # Modelos treinados e salvos
-├── results/                 # Resultados dos experimentos (gráficos, métricas, etc.)
-└── README.md                # Documentação do repositório
+├── datasets/              
+# Conjuntos de dados utilizados nos experimentos
+├── notebooks/              
+# Notebooks Jupyter com os experimentos
+├── scripts/               
+# Scripts Python para processamento e modelagem
+├── models/                 
+# Modelos treinados e salvos
+├── results/                
+# Resultados dos experimentos (gráficos, métricas, etc.)
+└── README.md               
+# Documentação do repositório
 
 Requisitos
 Para executar os experimentos deste repositório, você precisará dos seguintes pacotes e dependências:
