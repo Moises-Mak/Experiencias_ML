@@ -1,4 +1,5 @@
 # Experiencias_ML
+
 Este repositório contém uma coleção de experimentos e projetos relacionados a Machine Learning (ML). Ele serve como um laboratório de testes onde diferentes algoritmos, modelos, e técnicas de ML são explorados, implementados e avaliados.
 
 - Índice
@@ -17,10 +18,15 @@ Estrutura do Repositório
 A estrutura do repositório é organizada da seguinte maneira:
 Experiencias_ML/
 ├── datasets/# Conjuntos de dados utilizados nos experimentos
+
 ├── notebooks/# Notebooks Jupyter com os experimentos
+
 ├── scripts/# Scripts Python para processamento e modelagem
+
 ├── models/# Modelos treinados e salvos
+
 ├── results/# Resultados dos experimentos (gráficos, métricas, etc.)
+
 └── README.md # Documentação do repositório
 
 Requisitos
