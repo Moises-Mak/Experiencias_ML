@@ -1,4 +1,4 @@
-# Experiencias_ML
+# Experiências_ML
 
 Este repositório contém uma coleção de experimentos e projetos relacionados a Machine Learning (ML). Ele serve como um laboratório de testes onde diferentes algoritmos, modelos, e técnicas de ML são explorados, implementados e avaliados.
 
@@ -12,9 +12,11 @@ Este repositório contém uma coleção de experimentos e projetos relacionados 
 - Licença
 
 Objetivo
+
 O objetivo deste repositório é documentar e compartilhar experiências práticas com Machine Learning, abrangendo desde a implementação de algoritmos clássicos até a aplicação de técnicas mais avançadas, como redes neurais profundas e aprendizado por reforço.
 
 Estrutura do Repositório
+
 A estrutura do repositório é organizada da seguinte maneira:
 
 Experiencias_ML/
@@ -33,14 +35,14 @@ Experiencias_ML/
 Requisitos
 Para executar os experimentos deste repositório, você precisará dos seguintes pacotes e dependências:
 
-Python 3.x
-Jupyter Notebook
-NumPy
-Pandas
-Scikit-learn
-TensorFlow / PyTorch (dependendo do projeto)
-Matplotlib / Seaborn (para visualizações)
-Outros pacotes específicos, listados no arquivo requirements.txt
+- Python 3.x
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow / PyTorch (dependendo do projeto)
+- Matplotlib / Seaborn (para visualizações)
+  
 Instalação
 Clone este repositório para sua máquina local:
 git clone https://github.com/Moises-Mak/Experiencias_ML.git
@@ -49,10 +51,13 @@ Instale as dependências necessária
 pip install -r requirements.txt
 
 Como Usar
+
 Navegue até a pasta notebooks/ e abra um dos notebooks Jupyter para explorar os experimentos realizados.
 Use os scripts em scripts/ para executar modelos diretamente via linha de comando.
 Consulte os resultados dos experimentos na pasta results/ para analisar métricas e visualizações.
+
 Exemplos
+
 Abra o notebook notebooks/Experimento_1.ipynb para ver a implementação de um classificador de regressão logística.
 Execute python scripts/train_model.py para treinar um modelo com um conjunto de dados específico.
   
