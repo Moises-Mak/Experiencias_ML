@@ -16,6 +16,7 @@ O objetivo deste repositório é documentar e compartilhar experiências prátic
 
 Estrutura do Repositório
 A estrutura do repositório é organizada da seguinte maneira:
+
 Experiencias_ML/
 ├── datasets/# Conjuntos de dados utilizados nos experimentos
 
