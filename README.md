@@ -43,7 +43,7 @@ Matplotlib / Seaborn (para visualizações)
 Outros pacotes específicos, listados no arquivo requirements.txt
 Instalação
 Clone este repositório para sua máquina local:
-git clone https://github.com/seu_usuario/Experiencias_ML.git
+git clone https://github.com/Moises-Mak/Experiencias_ML.git
 cd Experiencias_ML
 Instale as dependências necessária
 pip install -r requirements.txt
